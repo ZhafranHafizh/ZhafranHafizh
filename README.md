@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZhafranHafizh
-- 👀 I’m interested in coding and software development
+- 👀 I’m interested in game level design and software development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 to reach me you can email me on zhafranhafizhir@gmail.com or on IG's @zhafranhafizh_ir
 
 <!---
 ZhafranHafizh/ZhafranHafizh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
