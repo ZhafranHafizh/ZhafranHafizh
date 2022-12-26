@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhafranHafizh
-- 👀 I’m interested in game level design and software development
+- 👀 I’m interested in game level design, software development, and UI/UX Design
 - 🌱 I’m currently learning Software Engineering
 - 📫 to reach me you can email me on zhafranhafizhir@gmail.com or on IG's @zhafranhafizh_ir
 
